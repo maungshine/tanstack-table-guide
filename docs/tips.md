@@ -50,10 +50,8 @@ Use `<table>`, `<thead>`, `<tbody>`, `<tr>`, `<th>`, and `<td>` properly for bet
 
 ---
 
-Happy coding! 🚀
-
-➡️ This is the last page of the guide.
+For more advanced topics, examples, and API references, visit the official TanStack Table documentation at [https://tanstack.com/table](https://tanstack.com/table).
 
 ---
 
-For more advanced topics, examples, and API references, visit the official TanStack Table documentation at [https://tanstack.com/table](https://tanstack.com/table).
+➡️ Next: [Reusable Table](reusable.md)
