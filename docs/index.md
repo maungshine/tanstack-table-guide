@@ -29,7 +29,8 @@ TanStack Table lets you build feature-rich tables with full control over renderi
 - [Row Selection](row-selection.md)  
 - [Customizing Cells](custom-cells.md)  
 - [Advanced Features](advanced.md)  
-- [Tips & Best Practices](tips.md)  
+- [Tips & Best Practices](tips.md)
+- [Reusable Table](reusable.md)
 
 ---
 
